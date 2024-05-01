@@ -1,3 +1,7 @@
+<img src="https://github.com/Harsh971/Learning-Linux/blob/main/Learning-Linux-Banner.png">
+
+<br>
+
 # Comprehensive Guide to Linux Commands for Cloud and DevOps Engineers
 
 Welcome to the Comprehensive Guide to Linux Commands repository! This repository aims to provide a one-stop guide for understanding and mastering Linux commands that are essential for Cloud and DevOps engineers in their daily workflows.
